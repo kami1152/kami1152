@@ -2,6 +2,13 @@
 
 ---
 
+| 왼쪽 정렬 | 가운데 정렬 | 오른쪽 정렬 |
+| :--- | :---: | ---: |
+| 왼쪽으로 | 가운데로 | 오른쪽으로 정렬합니다. |
+| 정렬 | 정렬이 잘 될까? | 결과는? |
+
+---
+
 <div style="display: flex; overflow-x: auto;">
     <div style="flex: 1;">
         <img src="https://github.com/kami1152/kami1152/assets/85269354/0b0635a5-6803-4e35-a4a6-d7b4567917a6" alt="qwed">
