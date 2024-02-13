@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=300&section=header&text=StarSong%20profile&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&section=header&text=StarSong%20profile&fontSize=90&animation=twinkling)
 
 ---
 
