@@ -2,7 +2,7 @@
 
 ---
 
-| ㄴ|ㅇ |
+|![header](https://capsule-render.vercel.app/api?type=soft&theme=dark&color=black&fontColor=FFFFFF&height=300&section=header&text=StarSong%20profile&fontSize=90)|ㅇ |
 | --- | --- |
 
 
