@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height500&type=waving&theme=monokai&section=header&text=Welcome%10to%10Starsong%10github&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?height=500&type=waving&theme=monokai&section=header&text=Welcome%10to%10Starsong%10github&fontSize=90&animation=twinkling)
 
 ---
 
