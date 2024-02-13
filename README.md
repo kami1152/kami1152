@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=700&color=007FFF&text=welcome%20to%20starsong%20github!&fontColor=333333&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=700&color=007FFF&text=welcome%20to%20starsong%20github!&fontColor=333333&fontSize=46&animation=twinkling)
 
 
 ---
