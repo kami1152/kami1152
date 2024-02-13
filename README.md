@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=700&theme=dark&color=007FFF&text=welcome%20to%20starsong%20github!&fontColor=333333&fontSize=46&animation=twinkling)
+<div> aling="center">
+    
+![header](https://capsule-render.vercel.app/api?type=waving&height=500&theme=dark&color=007FFF&text=welcome%20to%20starsong%20github!&fontColor=333333&fontSize=46&animation=twinkling)
 
 ---
 <div style="display: flex; overflow-x: auto;">
@@ -10,3 +12,6 @@
 </div>
 
 ---
+
+
+</div>
